@@ -20,7 +20,7 @@
     "react-dom": "^16.6.3",
     "react-multiselect-checkboxes": "^0.1.1",
     "react-picky": "^4.2.0",
-    "react-scripts": "1.1.5",
+    "react-scripts": "5.0.1",
     "react-tooltip": "^3.9.2",
     "semantic-ui-react": "^0.86.0"
   },
